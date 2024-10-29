@@ -87,7 +87,7 @@ const Portfolio = () => {
              {/* Projects Section */}
             <section id="projects" className="py-20 bg-gray-50 dark:bg-gray-800">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                <h2 className="text-3xl font-bold text-center text-gray-900 mb-12">Projects</h2>
+                <h2 className="text-3xl font-bold text-center text-gray-900 mb-12 dark:text-white">Projects</h2>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                     {projects.map((project) => (
                     <div key={project.id} className="bg-white rounded-lg shadow-md overflow-hidden">
@@ -129,11 +129,11 @@ const Portfolio = () => {
             {/* Contact */}
             <section id="contact" className="py-20 bg-white dark:bg-gray-800">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                    <h2 className="text-3xl font-bold text-center text-gray-900 mb-12">Get in Touch</h2>
+                    <h2 className="text-3xl font-bold text-center text-gray-900 mb-12 dark:text-white">Get in Touch</h2>
                     <div className="flex justify-center space-x-8">
                         <a
                             href="mailto:pedronegron3rd@gmail.com"
-                            className="inline-flex items-center text-gray-600 hover:text-gray-900"
+                            className="inline-flex items-center text-gray-600 hover:text-gray-900 dark:text-white"
                         >
                             <Mail className="w-6 h-6 mr-2" />
                             Email
@@ -141,7 +141,7 @@ const Portfolio = () => {
 
                         <a
                             href="https://linkedin.com/in/pedro-negron-iii/"
-                            className="inline-flex items-center text-gray-600 hover:text-gray-900"
+                            className="inline-flex items-center text-gray-600 hover:text-gray-900 dark:text-white"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
@@ -151,7 +151,7 @@ const Portfolio = () => {
 
                         <a 
                             href="https://github.com/oobubblzoo"
-                            className="inline-flex items-center text-gray-600 hover:text-gray-900"
+                            className="inline-flex items-center text-gray-600 hover:text-gray-900 dark:text-white"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
