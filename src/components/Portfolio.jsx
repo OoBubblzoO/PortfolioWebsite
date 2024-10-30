@@ -26,9 +26,9 @@ const Portfolio = () => {
     const projects = [
         {
             id: 1,
-            title: "Project 1",
-            description: "This is text placeholder for now",
-            image: "/api/placeholder/400/250",
+            title: "Silent Night",
+            description: "The family has gone away on another vacation without telling you. You wake up to a list on the counter. Just do the chores they left for you and relax... right?",
+            image: "/src/assets/images/SilentNight.png",
             github: "https://github.com/OoBubblzoO/SilentNight"
         },
         {
@@ -45,7 +45,7 @@ const Portfolio = () => {
 
             {/* Navigations */}
             <nav className="bg-white dark:bg-gray-800 shadow-sm">
-                <div className="max-w-7x1 mx-auto px-4 sm:px-6 lg:px-8">
+                <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                     <div className="flex justify-between h-16">
                         <div className="flex space-x-8 items-center">
                             <a href="#about" className="text-gray-700 dark:text-gray-200 hover:text-gray-900 dark: hover:text-white">About</a>
@@ -69,7 +69,7 @@ const Portfolio = () => {
 
             {/* Hero/ About Section */}
             <section id="about" className="py-20 bg-white dark:bg-gray-800">
-                <div className="max-w-7x1 mx-auto px-4 sm:px-6 lg:px-8">
+                <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                     <div className="text-center">
                         <h1 className="text-4x1 font-bold text-gray-900 dark:text-white">Pedro Negron III</h1>
                         <p className="mt-4 text-x1 text-gray-600 dark:text-gray-300">
