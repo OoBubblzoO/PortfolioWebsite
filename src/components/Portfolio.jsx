@@ -28,14 +28,14 @@ const Portfolio = () => {
             id: 1,
             title: "Silent Night",
             description: "The family has gone away on another vacation without telling you. You wake up to a list on the counter. Just do the chores they left for you and relax... right?",
-            image: "/public/SilentNight.png",
+            image: "/SilentNight.png",
             github: "https://github.com/OoBubblzoO/SilentNight"
         },
         {
             id: 2,
             title: "Proposal",
             description: "A client wanted to make a proposal a little more special with a custom site. The requested site has a typing animations that cycles through some meaningful times, as well as a big question at the end. Play with the buttons to find out what happens :)",
-            image: "/public/ProposalThumbnail.png",
+            image: "/ProposalThumbnail.png",
             github: "https://github.com/OoBubblzoO/QuestionSite",
             demo: "https://oobubblzoo.github.io/QuestionSite/"
         },
