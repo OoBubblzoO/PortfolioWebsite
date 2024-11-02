@@ -35,7 +35,7 @@ const Portfolio = () => {
             id: 2,
             title: "Proposal",
             description: "A client wanted to make a proposal a little more special with a custom site. The requested site has a typing animations that cycles through some meaningful times, as well as a big question at the end. Play with the buttons to find out what happens :)",
-            image: "/ProposalThumbnail.png",
+            image: "/ProposalThumbnail.PNG",
             github: "https://github.com/OoBubblzoO/QuestionSite",
             demo: "https://oobubblzoo.github.io/QuestionSite/"
         },
