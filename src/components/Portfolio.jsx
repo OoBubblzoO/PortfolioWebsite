@@ -45,7 +45,7 @@ const Portfolio = () => {
             description: "A memory game built with Unity engine. Choose between 2 difficulties, game types, themes as you try your luck at matching!",
             image: "/CardImage.PNG",
             github:"",
-            demo: "https://drive.google.com/file/d/1Gb9Yl3Lz-xEwB4XY75o9k9mQEOhQGYHr/view"
+            demo: "https://drive.google.com/file/d/1zlHl4o-CA4oEO97AOaUxI8KMwsHQre3G/view?usp=sharing"
         },
         {
             id: 4,
@@ -53,7 +53,7 @@ const Portfolio = () => {
             description: "A cute pet game. Tap to pet the critter or feed them kibble. Ideas come from Tamagotchi, and cookie clicker. Adjust the sound to your liking!",
             image: "/CritterImage.png",
             github:"https://github.com/ericori/critter-game?tab=readme-ov-file",
-            demo: "https://drive.google.com/file/d/1qRafh3kEdXcFUnkQExvtXPxuni91eWkf/view"
+            demo: "https://drive.google.com/file/d/1MFj5L9hmjj6l4UXRZbMR7sWtyg5EJwTc/view?usp=sharing"
         },
     ];
 
