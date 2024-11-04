@@ -39,6 +39,22 @@ const Portfolio = () => {
             github: "https://github.com/OoBubblzoO/QuestionSite",
             demo: "https://oobubblzoo.github.io/QuestionSite/"
         },
+        {
+            id: 3,
+            title: "Memory Madness",
+            description: "A memory game built with Unity engine. Choose between 2 difficulties, game types, themes as you try your luck at matching!",
+            image: "/CardImage.PNG",
+            github:"",
+            demo: "https://drive.google.com/file/d/1Gb9Yl3Lz-xEwB4XY75o9k9mQEOhQGYHr/view"
+        },
+        {
+            id: 4,
+            title: "Critter",
+            description: "A cute pet game. Tap to pet the critter or feed them kibble. Ideas come from Tamagotchi, and cookie clicker. Adjust the sound to your liking!",
+            image: "/CritterImage.png",
+            github:"https://github.com/ericori/critter-game?tab=readme-ov-file",
+            demo: "https://drive.google.com/file/d/1qRafh3kEdXcFUnkQExvtXPxuni91eWkf/view"
+        },
     ];
 
     return (
@@ -86,7 +102,7 @@ const Portfolio = () => {
             </section> 
 
              {/* Projects Section */}
-            <section id="projects" className="py-20 bg-gray-50 dark:bg-gray-800">
+            <section id="projects" className="py-20 bg-white dark:bg-gray-800">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <h2 className="text-3xl font-bold text-center text-gray-900 mb-12 dark:text-white">Projects</h2>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
