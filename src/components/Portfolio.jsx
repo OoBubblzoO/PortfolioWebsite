@@ -29,7 +29,8 @@ const Portfolio = () => {
             title: "Silent Night",
             description: "The family has gone away on another vacation without telling you. You wake up to a list on the counter. Just do the chores they left for you and relax... right?",
             image: "/SilentNight.png",
-            github: "https://github.com/OoBubblzoO/SilentNight"
+            github: "https://github.com/OoBubblzoO/SilentNight",
+            demo: "https://www.linkedin.com/feed/update/urn:li:activity:7156389538330726400/"
         },
         {
             id: 2,
@@ -42,9 +43,9 @@ const Portfolio = () => {
         {
             id: 3,
             title: "Memory Madness",
-            description: "A memory game built with Unity engine. Choose between 2 difficulties, game types, themes as you try your luck at matching!",
+            description: "A memory game built with Unity engine. Choose between 2 difficulties, game types, themes as you try your luck at matching! Press 'P' to pause game. ",
             image: "/CardImage.PNG",
-            github:"",
+            github:"https://github.com/OoBubblzoO/Memory-Madness",
             demo: "https://drive.google.com/file/d/1zlHl4o-CA4oEO97AOaUxI8KMwsHQre3G/view?usp=sharing"
         },
         {
@@ -55,6 +56,14 @@ const Portfolio = () => {
             github:"https://github.com/ericori/critter-game?tab=readme-ov-file",
             demo: "https://drive.google.com/file/d/1MFj5L9hmjj6l4UXRZbMR7sWtyg5EJwTc/view?usp=sharing"
         },
+        {
+            id: 5,
+            title: "Maiden Voyage",
+            description: "A class project in a Video Game Design course. This was teaching the fundamentals of the process in creating a game. From initial brainstorm and documentation, to releasing.",
+            image: "/MaidenVoyage.png",
+            github:"https://github.com/DemonicTako98/MaidenVoyage",
+        },
+
     ];
 
     return (
