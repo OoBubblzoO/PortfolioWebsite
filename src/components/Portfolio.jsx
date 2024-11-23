@@ -104,7 +104,7 @@ const Portfolio = () => {
                         <p className="mt-6 text-gray-600 dark:text-gray-300 max-w-2x1 mx-auto">
                             Welcome to my website! I'm passionate about creating solutions
                             to problems. With my skills I enjoy designing websites, video games,
-                            and continue to develope my skills.
+                            and continue to develop my skills.
                         </p>
                     </div>
                 </div>
